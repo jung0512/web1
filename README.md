@@ -46,3 +46,10 @@
 css로 각 파일들의 설정들을 해주어서 만들었다 
     밑에 사진은 결과 사진이다
     ![image](https://user-images.githubusercontent.com/102035198/170625394-7d9d78d5-b2d2-4c29-8ad4-b6456ca75182.png)
+![image](https://user-images.githubusercontent.com/102035198/186062592-f9a45423-c639-4f5d-8e37-825e9ca002cf.png)<br>
+![image](https://user-images.githubusercontent.com/102035198/186062696-16dc37bc-4cc5-4f3b-88f3-f9240c2f4c3c.png)<br>
+conn변수가 DBConnect메소드를 가져와 준다<br>
+![image](https://user-images.githubusercontent.com/102035198/186062891-8b8f0c0d-09ec-4b65-b8ea-e087c726a5c1.png)<br>
+pstmt변수가 sql을 접속해준다<br>
+
+

@@ -45,7 +45,7 @@
 ![image](https://user-images.githubusercontent.com/102035198/170624395-6f5f71f8-fd0e-4159-ba65-548f3b18cfb5.png)<br>
 css로 각 파일들의 설정들을 해주어서 만들었다 <br>
 밑에 사진은 결과 사진이다<br>
-![image](https://user-images.githubusercontent.com/102035198/170625394-7d9d78d5-b2d2-4c29-8ad4-b6456ca75182.png)<br>
+![image](https://user-images.githubusercontent.com/102035198/187584974-06075e42-3aa6-44ef-bcad-bebfc0bbf839.png)<br>
 
 		
 
